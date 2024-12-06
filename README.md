@@ -1,7 +1,7 @@
 **EV Data Analysis Dashboard**
 **Project Overview**
 This project presents a comprehensive Electric Vehicle (EV) Data Analysis Dashboard using Kaggle Data set . The dashboard visualizes EV market trends between 2014 and 2024, focusing on the growth in EV adoption, including Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). The analysis offers insights into sales patterns, model popularity, and eligibility for Clean Air Vehicle (CAFV) benefits, providing a detailed understanding of the evolving EV landscape.
-
+Data : **https://www.kaggle.com/datasets/ironwolf437/electric-vehicle-population-in-usa**
 **Features**
 The dashboard includes:
 
